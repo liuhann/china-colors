@@ -1,0 +1,23 @@
+{
+  "name": "china-colors",
+  "version": "1.0.0",
+  "description": "中国颜色",
+  "main": "src/colors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuhann/china-colors.git"
+  },
+  "keywords": [
+    "china",
+    "colors"
+  ],
+  "author": "liuhann@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuhann/china-colors/issues"
+  },
+  "homepage": "https://github.com/liuhann/china-colors#readme"
+}
